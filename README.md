@@ -7,6 +7,7 @@ Sends keystroke.
 - Micro switch: Height from board (open) 10 mm. Total range (open to closed) 4 mm.
 - 2 bolts: M3x10 tapered shank 
 - 2 square nuts: M3 x 1.8 (thickness) x 5.5 mm (wrench size)
+- Mini-USB cable
 
 #### Links to parts: ####
 - Board: https://www.aliexpress.com/item/Mini-USB-ATmega32U4-Pro-Micro-5V-16MHz-Board-Module-ATMega-32U4-Controller-Pro-Micro-Replace-Pro/32838537588.html
