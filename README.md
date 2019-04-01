@@ -17,7 +17,8 @@ Sends keystroke.
 
 ## Assembly instructions ##
 #### Solder the microswitch to the board #### 
-- One connected pin to GND, middle pin to 3, NC-pin to 5 (not connected, but solder anyway).
+- First leg to pin to GND, middle to 3, NC-leg to 5 (not connected, but solder anyway).
+- Make sure there is no gap between the switch housing and the board. 
 - Use a side cutter to trim the pins
 ![Soldering](https://github.com/subsite/footswitch/raw/90839914abac7948a4be8d9b2bc6acfa50921e1b/assets/img/assembly-instructions/soldering.jpg)
 
@@ -30,8 +31,9 @@ Sends keystroke.
 - Test that it works (pressing the switch should send a keystroke)
 
 #### Install the board ####
-- Lay the board as in the picture and gently but firmly press until it snaps in place
+- Place the board as in the picture and gently but firmly press until it snaps in place
 - Push on the USB-side (push on the board, not the USB port!) until it reches the bottom. The board should now be flush with the edge of the printed part.
+![Board installations](https://github.com/subsite/footswitch/raw/90839914abac7948a4be8d9b2bc6acfa50921e1b/assets/img/assembly-instructions/install_board.jpg)
 
 #### Assemble printed parts ####
 - Place the square nuts into the slots. Use a flat screwdriver to make sure they go all the way down.
