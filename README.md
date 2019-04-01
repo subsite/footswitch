@@ -33,7 +33,7 @@ Sends keystroke.
 #### Install the board ####
 - Place the board as in the picture and gently but firmly press until it snaps in place
 - Push on the USB-side (push on the board, not the USB port!) until it reches the bottom. The board should now be flush with the edge of the printed part.
-![Board installations](https://github.com/subsite/footswitch/raw/90839914abac7948a4be8d9b2bc6acfa50921e1b/assets/img/assembly-instructions/install_board.jpg)
+![Board installations](https://github.com/subsite/footswitch/raw/fredde/assets/img/assembly-instructions/install_board.png)
 
 #### Assemble printed parts ####
 - Place the square nuts into the slots. Use a flat screwdriver to make sure they go all the way down.
